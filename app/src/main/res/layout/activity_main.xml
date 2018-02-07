@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/radio_gradient"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.streaming.lofi.lo_firadio.MainActivity">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@mipmap/chillhop"
+        android:layout_gravity="center_horizontal"/>
+
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@mipmap/radio_one"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beats to Relax/Study"
+        android:layout_gravity="center"
+        android:textColor="#E8EAF6"/>
+
+    <Button
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:text="play"
+        app:srcCompat="@android:drawable/ic_media_play"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>
