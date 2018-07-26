@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: dyanamitechetan.vusikview:vusikview-1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vusikview-1.1.aar/321465bf4e913055d3df2dba5b974cff/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vusikview-1.1.aar/321465bf4e913055d3df2dba5b974cff/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dyanamitechetan.vusikview/vusikview/1.1/3a6f884871290f1f146c3a66a9b78eab357bd7f/vusikview-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

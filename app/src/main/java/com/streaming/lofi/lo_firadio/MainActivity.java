@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity implements MediaPlayer.OnBuf
                     }
                 };
 
-                mp3Play.execute("http://picosong.com/cdn/a4446cd2916eb13b58ecba7f67cd5821.mp3");
+                mp3Play.execute("http://picosong.com/cdn/3dc10d400fa83bd531b3c177fa505452.mp3");
                 musicView.start();
                 //"http://mic.duytan.edu.vn:86/ncs.mp3"
             }
